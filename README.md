@@ -53,8 +53,8 @@ Profissional de dados com experiência em ambiente corporativo (Deloitte), atuan
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [first-model-ML](https://github.com/jaoalmirante/first-model-ML) | Modelo Naive Bayes para análise de crédito bancário | Python · Scikit-learn |
-| [decision_tree](https://github.com/jaoalmirante/decision_tree) | Classificação com Árvore de Decisão | Python · Scikit-learn |
+| [hr-attrition-eda](https://github.com/jaoalmirante/hr-attrition-eda) | Dashboard interativo de análise exploratória de dados | Python · Pandas |
+| [fraud-detection-ml](https://github.com/jaoalmirante/fraud-detection-ml) | Modelo de ML para detecção de fraude bancária | Python · Scikit-learn |
 
 ---
 
