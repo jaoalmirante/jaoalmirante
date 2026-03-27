@@ -1,4 +1,4 @@
-# João Victor Almirante
+# João Almirante
 
 **Cientista de Dados | Engenheiro de Dados | Python · SQL · Machine Learning · AWS**
 
