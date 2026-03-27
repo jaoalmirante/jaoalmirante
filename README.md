@@ -49,7 +49,6 @@ Profissional de dados com experiência em ambiente corporativo (Deloitte), atuan
 
 ## 📂 Projetos em destaque
 
-> *Em construção — projetos end-to-end sendo adicionados em breve*
 
 | Projeto | Descrição | Stack |
 |---|---|---|
