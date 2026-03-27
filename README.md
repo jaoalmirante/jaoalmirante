@@ -70,7 +70,7 @@ Profissional de dados com experiência em ambiente corporativo (Deloitte), atuan
 
 ## 📬 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-USUARIO-AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaoalmirante/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:joaovictoralm06@gmail.com)
 
 ---
