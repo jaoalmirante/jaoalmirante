@@ -54,6 +54,7 @@ Profissional de dados com experiência em ambiente corporativo (Deloitte), atuan
 |---|---|---|
 | [hr-attrition-eda](https://github.com/jaoalmirante/hr-attrition-eda) | Dashboard interativo de análise exploratória de dados | Python · Pandas |
 | [fraud-detection-ml](https://github.com/jaoalmirante/fraud-detection-ml) | Modelo de ML para detecção de fraude bancária | Python · Scikit-learn |
+| [report-automation](https://github.com/jaoalmirante/report-automation) | Automação de Relatórios Financeiros | Python · openpyxl |
 
 ---
 
