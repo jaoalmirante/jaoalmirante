@@ -26,6 +26,7 @@ Profissional de dados com experiência em ambiente corporativo (Deloitte), atuan
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white)
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
 **Analytics & BI**
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
@@ -55,6 +56,8 @@ Profissional de dados com experiência em ambiente corporativo (Deloitte), atuan
 | [hr-attrition-eda](https://github.com/jaoalmirante/hr-attrition-eda) | Dashboard interativo de análise exploratória de dados | Python · Pandas |
 | [fraud-detection-ml](https://github.com/jaoalmirante/fraud-detection-ml) | Modelo de ML para detecção de fraude bancária | Python · Scikit-learn |
 | [report-automation](https://github.com/jaoalmirante/report-automation) | Automação de Relatórios Financeiros | Python · SQL |
+| [books_scraper](https://github.com/jaoalmirante/books_scraper) | Scraper para coletar dados de livros | Python · BeautifulSoup4 |
+| [amazon-books-scraper](https://github.com/jaoalmirante/amazon-books-scraper) | Scraper de livros no site da amazon | Python · Playwright |
 
 ---
 
